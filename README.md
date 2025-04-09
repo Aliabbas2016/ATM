@@ -32,7 +32,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/atm-interface-java.git
+git clone https://github.com/Aliabbas2016/atm-interface-java.git
 cd atm-interface-java
 Compile the Java file:
 
